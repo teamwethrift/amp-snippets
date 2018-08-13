@@ -2,7 +2,7 @@
 
 Snippets for creating [AMP HTML](https://www.ampproject.org/) (Active Mobile Pages).
 
-Created by [Nick Drewe](https://www.twitter.com/nickdrewe) and the team building [wethrift.com])(https://www.wethrift.com) and [searchmy.bio](https://www.searchby.bio).
+Created by [Nick Drewe](https://www.twitter.com/nickdrewe) and the team building [wethrift.com](https://www.wethrift.com) and [searchmy.bio](https://www.searchby.bio).
 
 - [Wethrift on GitHub](https://github.com/teamwethrift)
 - [Wethrift development resources and links](https://wethrift.github.io/)
