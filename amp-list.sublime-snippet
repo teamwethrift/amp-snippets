@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+<amp-list src="${1:https://data.com/articles.json?ref=CANONICAL_URL}"
+    width=300 height=200 layout=responsive>
+    <template type="amp-mustache">
+        <div>
+            Lorem ipsum dolor sit amet, has nisl nihil convenire et, vim at aeque inermis reprehendunt.
+        </div>
+    </template>
+    <div overflow role=button aria-label="Show more" class="list-overflow">
+        Show more
+    </div>
+</amp-list>$0
+]]></content>
+  <tabTrigger>amp-list</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP list</description>
+</snippet>

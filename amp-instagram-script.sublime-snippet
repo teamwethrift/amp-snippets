@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<script async custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js"></script>$0
+]]></content>
+  <tabTrigger>amp-instagram-script</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP instagram script</description>
+</snippet>

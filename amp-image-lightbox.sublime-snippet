@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+<amp-img
+    on="tap:${1:lightboxId}"
+    role="button"
+    tabindex="0"
+    src="${2:image}"
+    width=${3:200}
+    height=${4:100}></amp-img>
+<amp-image-lightbox id="${1:lightboxId}" layout="nodisplay"></amp-image-lightbox>$0
+]]></content>
+  <tabTrigger>amp-image-lightbox</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP image lightbox</description>
+</snippet>

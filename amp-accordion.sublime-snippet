@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<amp-accordion>
+  <section expanded>
+      <h2>${1:Heading}</h2>
+      <p>${2:Content}</p>
+  </section>
+  $3
+</amp-accordion>$0
+]]></content>
+  <tabTrigger>amp-accordion</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP accordion</description>
+</snippet>

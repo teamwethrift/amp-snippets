@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<button on="tap:${1:lightboxId}">Open lightbox</button>
+<amp-lightbox id="${1:lightboxId}" layout="nodisplay">
+    <div class="lightbox" on="tap:${1:lightboxId}.close" role="main" tabindex=${2:0}>
+        ${3:Lorem ipsum dolor sit amet, has nisl nihil convenire et, vim at aeque inermis reprehendunt.}
+    </div>
+</amp-lightbox>$0
+]]></content>
+  <tabTrigger>amp-lightbox</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP lightbox</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>$0
+]]></content>
+  <tabTrigger>amp-facebook-script</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP Facebook script tag</description>
+</snippet>

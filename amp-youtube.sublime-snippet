@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<amp-youtube
+    data-videoid="${1:mGENRKrdoGY}"
+    layout="responsive"
+    width="480" height="270"></amp-youtube>$0
+]]></content>
+  <tabTrigger>amp-youtube</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP YouTube</description>
+</snippet>

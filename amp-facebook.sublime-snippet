@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<amp-facebook width=${1:486} height=${2:657}
+    layout="responsive"
+    data-href="${3:https://www.facebook.com/zuck/posts/10102593740125791}">
+</amp-facebook>$0
+]]></content>
+  <tabTrigger>amp-facebook</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP Facebook</description>
+</snippet>

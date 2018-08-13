@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<amp-ad width=$1 height=$2
+    type="adsense"
+    data-ad-client="$3"
+    data-ad-slot="$4">
+</amp-ad>$0
+]]></content>
+  <tabTrigger>amp-ad</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP AdSense ad</description>
+</snippet>

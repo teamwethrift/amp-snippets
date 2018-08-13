@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<amp-facebook width=${1:552} height=${2:574}
+    layout="responsive"
+    data-embed-as="video"
+    data-href="${3:https://www.facebook.com/zuck/videos/10102509264909801/}">
+</amp-facebook>$0
+]]></content>
+  <tabTrigger>amp-facebook-video</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP Facebook video</description>
+</snippet>

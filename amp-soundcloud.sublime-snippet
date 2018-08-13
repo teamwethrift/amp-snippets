@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+    <amp-soundcloud height=${1:657}
+        layout="fixed-height"
+        data-trackid="${2:243169232}"
+        data-visual="true"></amp-soundcloud>$0
+]]></content>
+  <tabTrigger>amp-soundcloud</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP Soundcloud</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<template type="amp-mustache">
+    ${1:Hello {{world}}!}
+</template>$0
+]]></content>
+  <tabTrigger>amp-mustache</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP mustache</description>
+</snippet>

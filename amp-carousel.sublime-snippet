@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<amp-carousel width=${1:300} height=${2:400}>
+    $1
+</amp-carousel>$0
+]]></content>
+  <tabTrigger>amp-carousel</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP carousel</description>
+</snippet>

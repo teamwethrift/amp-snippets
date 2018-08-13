@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<amp-install-serviceworker
+    src="${1:https://www.your-domain.com/serviceworker.js}"
+    layout="nodisplay">
+</amp-install-serviceworker>$0
+]]></content>
+  <tabTrigger>amp-install-serviceworker</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP install serviceworker</description>
+</snippet>

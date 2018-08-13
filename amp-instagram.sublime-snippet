@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<amp-instagram
+    data-shortcode="${1:fBwFP}"
+    width="${2:400}"
+    height="${3:400}"
+    layout="responsive">
+</amp-instagram>$0
+]]></content>
+  <tabTrigger>amp-instagram</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP instagram</description>
+</snippet>

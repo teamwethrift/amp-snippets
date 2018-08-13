@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<amp-pixel scr="$1"></amp-pixel>$0
+]]></content>
+  <tabTrigger>amp-pixel</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP pixel</description>
+</snippet>

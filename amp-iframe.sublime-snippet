@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<amp-iframe width=${1:300} height=${2:300}
+    sandbox="allow-scripts allow-same-origin"
+    layout="responsive"
+    frameborder="0"
+    src="${3:https://foo.com/iframe}">
+</amp-iframe>$0
+]]></content>
+  <tabTrigger>amp-iframe</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP iframe</description>
+</snippet>

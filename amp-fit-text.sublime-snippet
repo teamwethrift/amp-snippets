@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<amp-fit-text width=${1:300} height=${2:200} layout="responsive" max-font-size=${3:52}>
+    ${4:Lorem ipsum dolor sit amet, has nisl nihil convenire et, vim at aeque inermis reprehendunt.}
+</amp-fit-text>$0
+]]></content>
+  <tabTrigger>amp-fit-text</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP fit text</description>
+</snippet>
+ß

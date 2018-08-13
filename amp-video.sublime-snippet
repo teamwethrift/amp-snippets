@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+<amp-video width=${1:400} height=${2:300} src="${3:http://}"
+  poster="$4">
+  <div fallback>
+    <p>Your browser doesn’t support HTML5 video</p>
+  </div>
+  <source type="video/mp4" src="$5">
+  <source type="video/webm" src="$6">
+</amp-video>$0
+]]></content>
+  <tabTrigger>amp-video</tabTrigger>
+  <scope>source.html</scope>
+  <description>AMP video</description>
+</snippet>
