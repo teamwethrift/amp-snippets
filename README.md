@@ -11,7 +11,7 @@ Created by [Nick Drewe](https://www.twitter.com/nickdrewe) and the team building
 
 ### Package Control (recommended)
 
-The easiest way to install the C++ Snippets is by using [Package Control](https://packagecontrol.io/). See [installation docs](https://packagecontrol.io/installation).
+The easiest way to install is by using [Package Control](https://packagecontrol.io/). See [installation docs](https://packagecontrol.io/installation).
 
 - Open Package Control (or hit Ctrl + Shift + P or Cmd + Shift + P)
 - Type _install_ and hit enter
